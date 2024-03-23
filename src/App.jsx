@@ -5,7 +5,7 @@ function App() {
 
   return (
     <div className="text-white bg-[#141414] min-h-screen grid place-items-center">
-      <div className="max-w-[400px] rounded-xl bg-[#1F1F1F] p-10 flex flex-col items-center gap-4">
+      <div className="w-[80%] sm:w-full max-w-[400px] rounded-xl bg-[#1F1F1F] p-10 flex flex-col items-center gap-4">
         <img className="rounded-full w-24 aspect-square" src="/profile.jpeg" />
         <div className="text-center">
           <h1 className="text-2xl font-bold">Kurnia Kharisma</h1>
